@@ -5,4 +5,6 @@
 <h2> Build and Release pipeline has been created and tested to Azure Web App</h2>
 
 
+<h2>CD is enabled in release pipeline</h2>
+
 

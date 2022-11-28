@@ -7,4 +7,5 @@
 
 <h2>CD is enabled in release pipeline</h2>
 
+<h2>Local Host Deployment is Configured and CD Enabled</h2>
 
